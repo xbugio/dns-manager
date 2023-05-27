@@ -1,0 +1,6 @@
+[submodule "dns-manager-frontend"]
+	path = dns-manager-frontend
+	url = https://github.com/xbugio/dns-manager-frontend.git
+[submodule "dns-managerd"]
+	path = dns-managerd
+	url = https://github.com/xbugio/dns-managerd.git
